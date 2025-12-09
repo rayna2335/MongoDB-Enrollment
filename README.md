@@ -8,3 +8,9 @@ This system ensures efficient handling of academic records, simplifies course se
 
 ## Tech used
 * **Database**: MongoDB
+
+## How to use
+* Clone the repo: `git clone https://github.com/yourusername/enrollment-project.git`
+* Install dependencies: `npm install`
+* Setup MongoDB connection
+* Run the project: `npm start`
